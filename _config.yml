@@ -54,3 +54,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
