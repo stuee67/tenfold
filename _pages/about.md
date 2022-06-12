@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /about
+permalink: /about/
 hidden: true
 header:
   overlay_color: "#5e616c"
@@ -25,6 +25,7 @@ feature_row:
     title: "Maintenance & Servicing"
     excerpt: "A low cost regular care plan ensures your system continues to function at its best and prolongs the lifespan of the equipment, often by many years."
 ---
+
 {% include feature_row %}
 <center><h1>Welcome to Tenfold Air Conditioning</h1></center><br />
 Tenfold are the South West leading air conditioning and ventilation specialists. With more than 30 years industry experience, you can trust in a team of qualified and skilled project managers, engineers and technicians with vast knowledge and advice.
