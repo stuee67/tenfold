@@ -155,10 +155,8 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - ["_pages"]
   - _pages
   - _posts
-  - ["posts"] 
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -187,6 +185,7 @@ exclude:
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
   - /about
+  - index.markdown
 keep_files:
   - .git
   - .svn
@@ -222,8 +221,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
