@@ -36,17 +36,13 @@ aside:
 ---
 
 
-<h1>Welcome to Tenfold Air Conditioning</h1>
+# Welcome to Tenfold Air Conditioning
 {: .text-center}
-
 Tenfold are the South West leading air conditioning and ventilation specialists. With more than 30 years industry experience, you can trust in a team of qualified and skilled project managers, engineers and technicians with vast knowledge and advice.
 {: .text-justify}
-
 The result is an install that includes a made to measure service. This is far more cost effective, leaves a flawless finish and most importantly does not compromise the quality of the systems functionality.
 {: .text-justify}
-
 We tailor a complete package for the individual customer and our focus is complete customer satisfaction.
 {: .text-justify}
-
 At Tenfold, the priority is high quality systems and service combined with the most competitive prices. Energy efficiency is key, whether it is a commercial, residential or industrial property.
 {: .text-justify}

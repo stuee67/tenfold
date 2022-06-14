@@ -1,38 +1,37 @@
 ---
 layout: splash
-permalink: /test/
-hidden: true
+permalink: /air-conditioning/
+no_title: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
-feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+  overlay_image: /assets/images/home_key_visual.jpg
 ---
 
-{% include feature_row %}
+#  Air Conditioning
+{: .text-center}
+\
+![image-right](/assets/images/test_image_right.jpg){: .align-right}
+Air conditioning is largely perceived as a luxury. What some do not realise is that air conditioning is not only affordable, but saves you a great deal of money in the lon term. It is the ultimate energy efficiency.
+{: .text-justify}
+What is often not considered, or can be greatly underestimated, is the difference air conditioning makes to your daily comfort and health.
+{: .text-justify}
+Air conditioners employ the same operating principles and basic components as the fridge you use in your kitchen. Fridges use energy (usually electricity) to transfer heat from the cool interior of the fridge to the relatively warm surroundings of your home. Likewise, an air conditioner uses energy to transfer heat from the interior of your home to the relatively warm outside environment.
+{: .text-justify}
+Switching to high-efficiency air conditioners and taking other actions to keep your home cool/warm can reduce energy costs by 20% to 50%.
+{: .text-justify}
+Air conditioning systems are quiet, with many subtle designs to blend into your chosen room or establishment.
+{: .text-justify}
+Systems are easy to use and create the ultimate comfort and atmosphere in your home or business premises.
+{: .text-justify}
+Air conditioning caters to all seasons and can heat or cool a room to the prefect temperature at the touch of a button.
+{: .text-justify}
+THEN... you have to consider the air quality!
+{: .text-justify}
+Air conditioning removes dus, soot and foreign bodies from the air. The quality of the air in your immediate environment is improved by 60%.
+{: .text-justify}
+Your unit manages high & low humidity. Studies have shown a correlation between humidity and asthma attacks, with compelling results. Excess moisture makes the air heavier to breathe and illness due to heat is potentially 40% more likely in high-humidity situations.
+{: .text-justify}
+High levels of water vapour in the air is linked with increased symptom flare-ups in arthritis and theumatoid arthritis sufferers.
+{: .text-justify}
+People with cardiovascular problems are at an increased risk of illness, as are the elderly and very young people with weakened immune systems are at risk.
+{: .text-justify}
