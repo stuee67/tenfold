@@ -233,7 +233,7 @@ body {
       max-width: $medium;
     }
 
-    .page__title, {
+    .page__title {
       font-size: $type-size-2;
 
       @include breakpoint($small) {
