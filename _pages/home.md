@@ -33,10 +33,9 @@ aside:
   - text: "FGAS and Air Management Legislation"
   - text: "Ultimate Climate Control"
   - text: "Heating and Cooling Solutions"
+content_title: "<center>Welcome to Tenfold Air Conditioning</center><br>"
 ---
 
-
-# Welcome to Tenfold Air Conditioning
 {: .text-center}
 Tenfold are the South West leading air conditioning and ventilation specialists. With more than 30 years industry experience, you can trust in a team of qualified and skilled project managers, engineers and technicians with vast knowledge and advice.
 {: .text-justify}

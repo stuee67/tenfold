@@ -17,11 +17,10 @@ layout: default
     {% if page.feature_row %}
       {% include feature_row %}
     {% endif %}
+    {% if page.content_title %}<h1 id="content-title" class="page__title" itemprop="headline">{{ page.content_title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
     <section class="page__content" itemprop="text">
       {% if page.aside %}  
       <aside class="sidebar__right">
-        <br />
-        <br />
         {% for a in page.aside %}
         <li>{{ a.text }}</li>
         {% endfor %}

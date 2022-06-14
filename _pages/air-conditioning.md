@@ -5,11 +5,8 @@ no_title: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home_key_visual.jpg
+content_title: "<center>Air Conditioning</center><br>"
 ---
-
-#  Air Conditioning
-{: .text-center}
-\
 ![image-right](/assets/images/test_image_right.jpg){: .align-right}
 Air conditioning is largely perceived as a luxury. What some do not realise is that air conditioning is not only affordable, but saves you a great deal of money in the lon term. It is the ultimate energy efficiency.
 {: .text-justify}
