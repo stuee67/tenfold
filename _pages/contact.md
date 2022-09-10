@@ -1,27 +1,19 @@
 ---
-layout: splash
-permalink: /contact/
-title: "Contact"
-excerpt: "Preferred methods of sending your questions, inquires, messages, and love letters to me."
+layout: page
+permalink: /about/
+title: "Contact us!"
 ---
 
-<form id="form" onchange="mail(this)">
-  <label>Name</label>
-  <div class="">
-    <input class="form-control" name="name" type="text">
-  </div>
+Tenfold are the South West leading air conditioning and ventilation specialists. With more than 30 years industry experience, you can trust in a team of qualified and skilled project managers, engineers and technicians with vast knowledge and advice.
 
-  <label>Email address<span class="color-red">*</span></label>
-  <div class="">
-    <input class="form-control" name="email" type="text">
-  </div>
+## Tenfold specialise in:
 
-  <div class="col-md-8 col-md-offset-0">
-    <textarea rows="4" placeholder="Message" name="activities" class="form-control"></textarea>
-  </div>
-
-  <div class="col-md-8 col-md-offset-0">
-    <textarea rows="6" class="form-control" name="comment" placeholder="Comment"></textarea>
-  </div>
-  <p><a id="send" class="btn btn-primary">Create Message</a></p>
-</form>
+* Air Conditioning
+* Ventilation
+* Tailored Sheet Metal Products
+* Custom Maintenance Programs
+* Complete Design & Installation service
+* Maintenance
+* FGAS and Air Management Legislation
+* Ultimate Climate Control
+* Heating and Cooling Solutions
