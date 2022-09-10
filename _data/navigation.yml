@@ -4,7 +4,5 @@ main:
     url: /
   - title: "Air Conditioning"
     url: /air-conditioning/
-  - title: "About"
-    url: /about/
   - title: "Contact Us"
     url: /contact/
