@@ -4,9 +4,6 @@ title: "Contact us!"
 layout: single
 sidebar:
   - title: "Tenfold Ltd"
-    text: "46 Hesketh crescent<br>
-          Swindon<br>
-          SN3 1RZ"
   - text: '<a href="mailto:tenfold10ac@outlook.com">Tenfold10AC@outlook.com</a>'
   - text: '<a href="tel:+447775196890">07775196890</a>'
 classes: wide
