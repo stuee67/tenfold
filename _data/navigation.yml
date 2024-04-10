@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Air Conditioning"
+    url: /air-conditioning/
+  - title: "Contact Us"
+    url: /contact/
